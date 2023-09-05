@@ -1,4 +1,4 @@
-**READ.ME - Aplicativo de Produtos em Java (Maven)**
+**Aplicativo de Produtos em Java (Maven)**
 Bem-vindo ao aplicativo de Produtos em Java utilizando a arquitetura Maven!
 
 1. Introdução
