@@ -41,7 +41,7 @@ public class Product {
         Product newProduct = new Product();
 
         System.out.println("");
-        System.out.println("Pless talk name product: ");
+        System.out.println("Qual o nome do produto?: ");
         newProduct.setName(sc.next());
         System.out.println("Adicione a quantidade");
 
